@@ -27,6 +27,7 @@ double Abs(double a)
 }
 
 //“ü—Í—pŠÖ”
+//boolŒ^‚Å^‹U‚ğ”»’è
 bool InPut(int& i, double& d)
 {
 	cout << "®”’l‚ğ“ü—Í‚µ‚Ä‰º‚³‚¢ >" << flush;

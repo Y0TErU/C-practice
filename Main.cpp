@@ -59,7 +59,7 @@ int main()
 {
 	int i;
 	double d;
-	while (InPut(i, d) != 0)
+	while (InPut(i, d))		//while文の中で直接bool型の変数を条件式にする(trueならループを続け、falseならループ終了)
 	{
 		ShowAbs(i, d);
 	}
